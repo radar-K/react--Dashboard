@@ -23,13 +23,13 @@ export function Tabbe() {
       <Tabs.Content value="installation" className="p-4">
         <p>How to install dependencies and structure your app.</p>
       </Tabs.Content>
-      
+
       <Tabs.Content value="charts" className="p-4">
         <p>Built using Recharts. Copy and paste into your apps. Open Source.</p>
       </Tabs.Content>
 
       <Tabs.Content value="color" className="p-4">
-        <p>Tailwind CSS colors in HSL, RGB, HEX and OKLCH formats.</p>
+        <p>Tailwind CSS colors in HSL, RGB, HEX, and OKLCH formats.</p>
       </Tabs.Content>
 
       <Tabs.Content value="components" className="p-4">
@@ -41,3 +41,4 @@ export function Tabbe() {
     </Tabs.Root>
   );
 }
+
